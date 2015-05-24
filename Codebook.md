@@ -1,6 +1,6 @@
 ---
 title: "CodeBook.md"
-author: "ChandruSaravanan"
+author: "Chandru"
 date: "Sunday, May 24, 2015"
 output: html_document
 keep_md: true
